@@ -1,6 +1,6 @@
 using System;
 
-namespace UsdToBgn
+namespace ConvertUsdToBgn
 {
     class Program
     {
